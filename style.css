@@ -1,0 +1,29 @@
+.left{
+   text-align: center;
+   width:900px;
+   height:600px;
+  margin:50px;
+  
+   
+
+}
+body{
+    background-color: gold;
+    text-align:center;
+}
+h1{
+    font-size: 50px;
+    font-weight:bold;
+    color: darkred;
+    font-family:Times;
+}
+h2{
+    color: green;
+    font-style:italic;
+    
+}
+.right{
+    text-align:center;
+
+}
+
